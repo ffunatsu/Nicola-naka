@@ -8,6 +8,7 @@
 
 - Windows・やまぶきR用
   - [Nicola-naka.yab](Nicola-naka.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
+    - やまぶきRの設定で、**スペースキーを左親指シフトに設定してください。**
 - Mac・Karbiner-Elements用
   - [Nicola-naka.karabiner.json](Nicola-naka.karabiner.json) (Complex modification用です。説明は割愛します。)
  
