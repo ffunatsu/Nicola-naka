@@ -5833,52 +5833,6 @@
           "from": {
             "simultaneous": [
               {
-                "key_code": "f"
-              },
-              {
-                "key_code": "k"
-              }
-            ]
-          },
-          "to": [
-            {
-              "key_code": "l"
-            },
-            {
-              "key_code": "y"
-            },
-            {
-              "key_code": "u"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            },
-            {
-              "type": "input_source_if",
-              "input_sources": [
-                {
-                  "language": "ja"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "simultaneous": [
-              {
                 "key_code": "g"
               },
               {
@@ -6697,6 +6651,52 @@
             },
             {
               "key_code": "o"
+            }
+          ],
+          "conditions": [
+            {
+              "type": "keyboard_type_if",
+              "keyboard_types": [
+                "jis"
+              ]
+            },
+            {
+              "type": "frontmost_application_unless",
+              "bundle_identifiers": [
+                "^com\\.apple\\.loginwindow$"
+              ]
+            },
+            {
+              "type": "input_source_if",
+              "input_sources": [
+                {
+                  "language": "ja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "simultaneous": [
+              {
+                "key_code": "f"
+              },
+              {
+                "key_code": "d"
+              }
+            ]
+          },
+          "to": [
+            {
+              "key_code": "l"
+            },
+            {
+              "key_code": "y"
+            },
+            {
+              "key_code": "u"
             }
           ],
           "conditions": [
