@@ -8,8 +8,8 @@
 
 - Windows・やまぶきR用
   - [Nicola-naka.yab](Nicola-naka.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
-<!-- - Mac・Karbiner-Elements用
-  - [Nicola-naka.karabiner.json](Nicola-naka.karabiner.json) -->
+- Mac・Karbiner-Elements用
+  - [Nicola-naka.karabiner.json](Nicola-naka.karabiner.json)
  
 ## 打ち方
 
@@ -29,10 +29,6 @@
   - 例えば:
     - F + Y の同時押し → 「ぱ」
     - F + P の同時押し → 「ぴ」
-
-## TODO
-
-- Karabiner-Elements版を追加する
 
 ## License
 
