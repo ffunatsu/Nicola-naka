@@ -1,6 +1,8 @@
 # Nicola-naka
 
-[Nicola-SandS](https://github.com/ffunatsu/Nicola-SandS/)の亜種として、親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、中指同時シフト化したものです。
+[Nicola-SandS](https://github.com/ffunatsu/Nicola-SandS/)の亜種として、親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、**中指同時シフト化**したものです。
+
+（なお、中指同時シフト配列の代表例としては、新下駄配列などがあります。その感覚で打てるようになっています。）
 
 - Windows・やまぶきR用
   - [Nicola-naka.yab](Nicola-naka.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
