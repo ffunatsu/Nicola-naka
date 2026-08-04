@@ -61,10 +61,7 @@
           },
           "to": [
             {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
+              "key_code": "slash"
             }
           ],
           "conditions": [
@@ -5295,10 +5292,7 @@
           },
           "to": [
             {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
+              "key_code": "slash"
             }
           ],
           "conditions": [
@@ -8618,42 +8612,6 @@
             },
             {
               "key_code": "o"
-            }
-          ],
-          "conditions": [
-            {
-              "type": "keyboard_type_if",
-              "keyboard_types": [
-                "jis"
-              ]
-            },
-            {
-              "type": "frontmost_application_unless",
-              "bundle_identifiers": [
-                "^com\\.apple\\.loginwindow$"
-              ]
-            },
-            {
-              "type": "input_source_if",
-              "input_sources": [
-                {
-                  "language": "ja"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "basic",
-          "from": {
-            "key_code": "slash"
-          },
-          "to": [
-            {
-              "key_code": "slash",
-              "modifiers": [
-                "option"
-              ]
             }
           ],
           "conditions": [
