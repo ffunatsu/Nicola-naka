@@ -4,6 +4,8 @@
 
 （なお、中指同時シフト配列の代表例としては、新下駄配列などがあります。その感覚で打てるようになっています。）
 
+## 設定ファイル
+
 - Windows・やまぶきR用
   - [Nicola-naka.yab](Nicola-naka.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
 <!-- - Mac・Karbiner-Elements用
