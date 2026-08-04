@@ -8,8 +8,8 @@
 
 - Windows・やまぶきR用
   - [Nicola-naka.yab](Nicola-naka.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
-<!-- - Mac・Karbiner-Elements用
-  - [Nicola-naka.karabiner.json](Nicola-naka.karabiner.json) -->
+- Mac・Karbiner-Elements用
+  - [Nicola-naka.karabiner.json](Nicola-naka.karabiner.json) (Complex modification用です。説明は割愛します。)
  
 ## 打ち方
 
@@ -31,10 +31,6 @@
     - F + P の同時押し → 「ぴ」
 - **SandSでもシフト面を打てるようにしています**。中指同時シフトだけでは打ちにくいシフト面がある際に、左親指シフトをスペースキーに割り当てた上でご利用ください。
 
-
-## TODO
-
-- Karabiner-Elements版を追加する
 
 ## License
 
